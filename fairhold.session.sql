@@ -1,0 +1,1 @@
+SELECT * FROM pricesPaid LIMIT 5
